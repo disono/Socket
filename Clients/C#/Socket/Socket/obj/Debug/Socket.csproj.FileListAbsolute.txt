@@ -1,0 +1,6 @@
+E:\Learn\Java\Socket\C#\Socket\Socket\bin\Debug\Socket.exe.config
+E:\Learn\Java\Socket\C#\Socket\Socket\bin\Debug\Socket.exe
+E:\Learn\Java\Socket\C#\Socket\Socket\bin\Debug\Socket.pdb
+E:\Learn\Java\Socket\C#\Socket\Socket\obj\Debug\Socket.csprojResolveAssemblyReference.cache
+E:\Learn\Java\Socket\C#\Socket\Socket\obj\Debug\Socket.exe
+E:\Learn\Java\Socket\C#\Socket\Socket\obj\Debug\Socket.pdb
